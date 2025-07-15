@@ -181,7 +181,7 @@ This is a personal portfolio project. For suggestions or improvements, please op
 **Asim Shaikh**
 - LinkedIn: [linkedin.com/in/asimshaikh1515](https://linkedin.com/in/asimshaikh1515)
 - Email: Available upon request
-- Portfolio: [Your deployed URL]
+- Portfolio: (https://cbd8b173-4fdb-4bca-a943-8a53a994240a-00-3dg5uebzrwd4c.janeway.replit.dev/)
 
 ---
 
